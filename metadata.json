@@ -1,7 +1,7 @@
 {
-	"name":"Hatch",
-	"thumbnail":"hatch.png",
-	"screenshot":"hatch.png",
+	"name":"Core",
+	"thumbnail":"core.png",
+	"screenshot":"core.png",
 	"templateType":"standard",
     "pageTypes":["home"],
     "tags": {
@@ -14,17 +14,17 @@
         "Swatch 1": {
             "color1":"#ffffff",
             "color2":"#f3f3f3",
-            "color3":"#f4594f",
-            "color4":"#373737",
-            "color5":"#787878",
+            "color3":"#03a9f4",
+            "color4":"#01579B",
+            "color5":"#aaaaaa",
             "color6":"#484848",
             "color7":"#ffffff"
         },
         "Swatch 2": {
             "color1":"#ffffff",
             "color2":"#f3f3f3",
-            "color3":"#84b97c",
-            "color4":"#575757",
+            "color3":"#9C27B0",
+            "color4":"#4A148C",
             "color5":"#aaaaaa",
             "color6":"#aaaaaa",
             "color7":"#ffffff"
@@ -32,27 +32,27 @@
         "Swatch 3": {
             "color1":"#ffffff",
             "color2":"#f3f3f3",
-            "color3":"#6299d4",
-            "color4":"#404550",
-            "color5":"#969696",
+            "color3":"#3F51B5",
+            "color4":"#1A237E",
+            "color5":"#aaaaaa",
             "color6":"#484848",
             "color7":"#ffffff"
         },
         "Swatch 4": {
             "color1":"#ffffff",
             "color2":"#f3f3f3",
-            "color3":"#89cdd6",
-            "color4":"#564a58",
-            "color5":"#B8B8B8",
+            "color3":"#009688",
+            "color4":"#004D40",
+            "color5":"#aaaaaa",
             "color6":"#484848",
             "color7":"#ffffff"
         },
         "Swatch 5": {
             "color1":"#ffffff",
             "color2":"#f3f3f3",
-            "color3":"#ee9848",
-            "color4":"#313941",
-            "color5":"#a2a2a2",
+            "color3":"#FF5722",
+            "color4":"#BF360C",
+            "color5":"#aaaaaa",
             "color6":"#a2a2a2",
             "color7":"#ffffff"
         }
@@ -60,7 +60,7 @@
     "fontSwatch": {
        "title": "Lato",
         "font1": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "32px",
             "font-weight": "inherit",
             "line-height": "32px",
@@ -68,7 +68,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "25px",
             "font-weight": "inherit",
             "line-height": "36px",
@@ -76,7 +76,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "18px",
             "font-weight": "inherit",
             "line-height": "28px",
@@ -84,7 +84,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "16px",
             "font-weight": "inherit",
             "line-height": "26px",
@@ -92,7 +92,7 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "14px",
             "font-weight": "inherit",
             "line-height": "30px",
@@ -100,7 +100,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "13px",
             "font-weight": "inherit",
             "line-height": "28px",
@@ -111,7 +111,7 @@
             "background-color-hover": "@color-swatch3"
         },
         "font7": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "16px",
             "font-weight": "inherit",
             "line-height": "26px",
@@ -121,7 +121,7 @@
             "background-color-hover": "darken(@color-swatch3,5%)"
         },
         "font8": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "50px",
             "font-weight": "inherit",
             "line-height": "50px",
@@ -129,7 +129,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "24px",
             "font-weight": "inherit",
             "line-height": "36px",
@@ -137,7 +137,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "21px",
             "font-weight": "inherit",
             "line-height": "28px",
