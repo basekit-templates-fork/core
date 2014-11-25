@@ -1,6 +1,4 @@
-hatch
-=====
+Core
+====
 
-BaseKit's Hatch Template
-
-+ Switched to develop branch - 07/06/13
+Software engineer design based on Hatch template
