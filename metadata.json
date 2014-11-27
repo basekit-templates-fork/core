@@ -58,7 +58,7 @@
         }
     },
     "fontSwatch": {
-       "title": "Lato",
+       "title": "Roboto",
         "font1": {
             "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "32px",
