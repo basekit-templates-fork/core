@@ -1,64 +1,98 @@
 {
-	"name":"Core",
-	"thumbnail":"core.png",
-	"screenshot":"core.png",
-	"templateType":"standard",
-    "pageTypes":["home"],
+    "name": "Core",
+    "thumbnail": "core.png",
+    "screenshot": "core-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
     "tags": {
-    "en": ["minimal", "clean", "business", "professional", "multipurpose", "corporate", "simple", "contemporary", "flexible", "sans-serif"],
-    "es": ["minimalista", "limpio", "corporativo", "profesional", "multiuso", "corporativo", "simple", "contemporaneo", "flexible", "sans-serif"],
-    "br": ["minimalista", "limpo", "corporativo", "profissional", "multiuso", "corporativo", "simples", "contemporâneo", "flexível", "sans-serif"]
+        "en": [
+            "minimal",
+            "clean",
+            "business",
+            "professional",
+            "multipurpose",
+            "corporate",
+            "simple",
+            "contemporary",
+            "flexible",
+            "sans-serif"
+        ],
+        "es": [
+            "minimalista",
+            "limpio",
+            "corporativo",
+            "profesional",
+            "multiuso",
+            "corporativo",
+            "simple",
+            "contemporaneo",
+            "flexible",
+            "sans-serif"
+        ],
+        "br": [
+            "minimalista",
+            "limpo",
+            "corporativo",
+            "profissional",
+            "multiuso",
+            "corporativo",
+            "simples",
+            "contempor\u00e2neo",
+            "flex\u00edvel",
+            "sans-serif"
+        ]
     },
-	"colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#f3f3f3",
-            "color3":"#03a9f4",
-            "color4":"#01579B",
-            "color5":"#aaaaaa",
-            "color6":"#484848",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f3f3f3",
+            "color3": "#03a9f4",
+            "color4": "#01579B",
+            "color5": "#aaaaaa",
+            "color6": "#484848",
+            "color7": "#ffffff"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#f3f3f3",
-            "color3":"#9C27B0",
-            "color4":"#4A148C",
-            "color5":"#aaaaaa",
-            "color6":"#aaaaaa",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f3f3f3",
+            "color3": "#9C27B0",
+            "color4": "#4A148C",
+            "color5": "#aaaaaa",
+            "color6": "#aaaaaa",
+            "color7": "#ffffff"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#f3f3f3",
-            "color3":"#3F51B5",
-            "color4":"#1A237E",
-            "color5":"#aaaaaa",
-            "color6":"#484848",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f3f3f3",
+            "color3": "#3F51B5",
+            "color4": "#1A237E",
+            "color5": "#aaaaaa",
+            "color6": "#484848",
+            "color7": "#ffffff"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#f3f3f3",
-            "color3":"#009688",
-            "color4":"#004D40",
-            "color5":"#aaaaaa",
-            "color6":"#484848",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f3f3f3",
+            "color3": "#009688",
+            "color4": "#004D40",
+            "color5": "#aaaaaa",
+            "color6": "#484848",
+            "color7": "#ffffff"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#f3f3f3",
-            "color3":"#FF5722",
-            "color4":"#BF360C",
-            "color5":"#aaaaaa",
-            "color6":"#a2a2a2",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f3f3f3",
+            "color3": "#FF5722",
+            "color4": "#BF360C",
+            "color5": "#aaaaaa",
+            "color6": "#a2a2a2",
+            "color7": "#ffffff"
         }
     },
     "fontSwatch": {
-       "title": "Roboto",
+        "title": "Roboto",
         "font1": {
             "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "32px",
